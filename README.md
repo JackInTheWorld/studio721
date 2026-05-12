@@ -1,5 +1,3 @@
-####DELETE REPO LATER####
-
 # Studio 721
 
 [Studio 721](https://721.so) is a collection of free tools for NFT creators,
